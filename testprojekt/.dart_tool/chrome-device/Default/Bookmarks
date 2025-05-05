@@ -1,0 +1,298 @@
+{
+   "checksum": "db8c3ac493e3c40a7a0957c3a6a68637",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "13365518497407215",
+            "guid": "fc6df774-50b6-4772-946e-41e968916728",
+            "id": "16",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "13374180944872114",
+            "guid": "76981eb1-74d2-49f1-9845-0dfcb83276b2",
+            "id": "17",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 4
+         }, {
+            "date_added": "0",
+            "date_last_used": "13366843111167122",
+            "guid": "01d6d4c3-4cd7-4d91-a312-08ed6a7cb30e",
+            "id": "18",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "e054f19a-0ddd-4cc3-923c-a0554b5021e5",
+            "id": "19",
+            "name": "Translate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "13374159362721812",
+            "guid": "079bc310-1c13-4ba7-9b33-0fb5019b4ba5",
+            "id": "20",
+            "name": "News",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://news.google.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "0",
+            "date_last_used": "13385425898467137",
+            "guid": "cf1f667e-ba72-48e6-9db3-7b6bd964e92f",
+            "id": "21",
+            "name": "Adobe Acrobat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://acrobat.adobe.com/?x_api_client_id=bookmark&x_api_client_location=Reader",
+            "visit_count": 2
+         }, {
+            "date_added": "13365256654644550",
+            "date_last_used": "13370254887045977",
+            "guid": "c0eaccda-9e71-4962-90a2-ece45eb9331c",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gemini",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gemini.google.com/app",
+            "visit_count": 2
+         }, {
+            "date_added": "13365256662870966",
+            "date_last_used": "0",
+            "guid": "15760dfa-f26d-4ad3-9470-32c26adaa178",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeepL Traduction – DeepL Translate : le meilleur traducteur au monde",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.deepl.com/fr/translator#de/fr/schw%C3%A4cher",
+            "visit_count": 0
+         }, {
+            "date_added": "13365256670469584",
+            "date_last_used": "0",
+            "guid": "48567a2e-138a-4d2c-a1c8-4f1869ed0651",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "vorwärtsbewegen 🔎 Duden Wörterbuch-Suchergebnisse",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.duden.de/suchen/dudenonline/vorw%C3%A4rtsbewegen",
+            "visit_count": 0
+         }, {
+            "date_added": "13365530210730486",
+            "date_last_used": "0",
+            "guid": "9e863b86-b3eb-4b43-9f53-f25ec9df60b1",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Themen zum Üben des Argumentierens - Deutsch lernen und studieren",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://deutschlernen-blog.de/themen-zum-uben-des-argumentierens/",
+            "visit_count": 0
+         }, {
+            "date_added": "13374554158328204",
+            "date_last_used": "0",
+            "guid": "b3f6d193-7c41-4fb8-9498-f1d07fa9858a",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "r.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gemini.google.com/app/1707fbfb0fd78879",
+            "visit_count": 1
+         }, {
+            "date_added": "13382530152961001",
+            "date_last_used": "0",
+            "guid": "28ff5529-f2d5-4af7-b62a-df223dde9729",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(23) Ich weiss wer ich bin - Hillsong Auf Deutsch - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=fvPO7Szxk7Y",
+            "visit_count": 1
+         }, {
+            "date_added": "13390925210780847",
+            "date_last_used": "0",
+            "guid": "ef86898c-cc81-4a7d-86f1-2972344a3c58",
+            "id": "7",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=booking&c=241&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13390925210780258",
+            "date_last_used": "0",
+            "guid": "c3325c42-554f-4627-9933-30fb642d5b03",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         } ],
+         "date_added": "13390925210421296",
+         "date_last_used": "0",
+         "date_modified": "13390925210780847",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favoritenleiste",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "cadf088e-4f99-4622-a672-f3d7230a4cb6",
+               "id": "10",
+               "name": "JS Bin - Collaborative JavaScript Debugging",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://jsbin.com/?html,output",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "5b7886c0-2911-4df3-bea4-342869a83e40",
+               "id": "11",
+               "name": "Java Variables",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.w3schools.com/java/java_variables.asp",
+               "visit_count": 0
+            } ],
+            "date_added": "13364999562173116",
+            "date_last_used": "0",
+            "date_modified": "13364999562173116",
+            "guid": "21e6c623-2fd8-4ed7-af48-2a127b2f7fae",
+            "id": "9",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "93e36eb5-15f4-47a0-bdc8-4cf082faba74",
+               "id": "13",
+               "name": "Testing the depth - FikFap",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://fikfap.com/user/Loganscottuk/post/348923",
+               "visit_count": 0
+            } ],
+            "date_added": "13364999562173535",
+            "date_last_used": "0",
+            "date_modified": "13364999562173535",
+            "guid": "3cd55f19-e913-43af-ae54-af85ec2c09c9",
+            "id": "12",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13352705060539669",
+            "date_last_used": "0",
+            "guid": "c27f8d0b-7920-4faa-840c-ec40130847f2",
+            "id": "14",
+            "name": "JS Bin - Collaborative JavaScript Debugging",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jsbin.com/?html,output",
+            "visit_count": 0
+         }, {
+            "date_added": "13362151137404397",
+            "date_last_used": "0",
+            "guid": "6ca6537a-1cac-4b19-b647-5c51c497f3b5",
+            "id": "15",
+            "name": "Java Variables",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/java/java_variables.asp",
+            "visit_count": 0
+         } ],
+         "date_added": "13390925210421299",
+         "date_last_used": "0",
+         "date_modified": "13362151137404397",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Weitere Favoriten",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13364225914867178",
+            "date_last_used": "0",
+            "guid": "e5a00910-ab7b-4c6a-9cf9-83e510a3e6af",
+            "id": "8",
+            "name": "Testing the depth - FikFap",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fikfap.com/user/Loganscottuk/post/348923",
+            "visit_count": 0
+         } ],
+         "date_added": "13390925210421301",
+         "date_last_used": "0",
+         "date_modified": "13364225914867178",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Favoriten",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCORaxF+WAQAAEgAqGFZNQ3pFU1h2VWpaMHN2VG9yNVJzMFE9PUgDoAYHEq4BCBoSqQEKHHBpSGVBNWJEZDdueVlBTElJNktYR1lPcjcwbz0SJGIzZjZkMTkzLTdjNDEtNGZiOC05NDk4LWYxZDA3ZmE5ODU4YRgAIAIoADDgtZH+5TI48ZHZhq0yQNuSg4XqMkocMHhjYTNoQVJldG5wSEM3Nmt1aXlYQldmbmRBPVogIh7/3G5Mdkx0QUpQVFhwUzZUbzJkamd5WUpFTVJWND1lPwPzFsI+AmAFEq4BCBsSqQEKHEllMHR5Sm9aSGFwaUVNYWN4Slc5M3BiNjRwaz0SJDI4ZmY1NTI5LWYyZDUtNGFmNy1iNjJhLWRmMjIzZGRlOTcyORgAIAIoADDbtZH+5TI4kqj54coyQNySg4XqMkocbG9JWURVbU1aM0F4WkZZZWtieUNWUlVLWENRPVogIh7/7mNBZDlWTG5rdGk4NTJqdFliRVFFUWFoaFp0Zz1l/ZyMSsI+AmAFEq4BCBkSqQEKHEFMcmorcU5McmZYOWROeDZmSys3cjhmRWIwMD0SJDllODYzYjg2LWIzZWItNGI0My05ZjUzLWYyNWVjOWRmNjBiMRgAIAIoADDhtZH+5TI4g7jft4syQNqSg4XqMkocanNzV3FiN1ArUmZWNlQyQTRtUW1xS0RRNjBFPVogIh7/uEp4b09PY2RLNGpiOW8rZlVidStlNCsxVVdZYz1lk4z458I+AmAFEq0BCBYSqAEKHFUvVW16MjVMbVNxcm9mZU9VWTlHbnFaUHdxZz0SJGMwZWFjY2RhLTllNzEtNDk2Mi05MGEyLWVjZTQ1ZWI5MzMxYxgAIAIoADDftZH+5TI4noGntYoyQNaSg4XqMkoceXNtZ3BOYVRoOWJwUXRZc2NwdFhXRzM0c2FBPVofIh39WUdRR1FqaGczazF5ZmQ3WmpmRnBhcElpVUY4PWU/A/MWwj4CYAUSrQEIFBKoAQocTkEwUUxQdjZxVkhIMGZ6a1VzU3dXRUNiSUtzPRIkMDc5YmMzMTAtMWMxMy00YmE3LTliMzMtMGZiNTAxOWI0YmE1GAAgAigAMN61kf7lMjj+z+W6iTJA1JKDheoyShxuZFpHU09JY0hjNG5LdHF1NSt0dkNqWDRyRDQ9Wh8iHfZNZkZLOVNxV1lRR05UL1AzVk5zVk4yVktXTkU9ZUUYr5PCPgJgBRKtAQgTEqgBChxWMVhZcWNJVGlNSkFZb2xHcXMyQlAxbzRRNFU9EiRlMDU0ZjE5YS0wZGRkLTRjYzMtOTIzYy1hMDU1NGI1MDIxZTUYACACKAAw3bWR/uUyOOPP5bqJMkDUkoOF6jJKHFZiTFBlbU5YYUhoSnZ1R2ZyUC9BdHdXakN0az1aHyId7FlXTEo4OFlHMlR0UnU0OWNQcHVlb1NsREtacz1lxc+QAcI+AmAFEqwBCA0SpwEKHERyVlRqWjhQSVNhNVZRQWtvYmwwTFZsYzY5WT0SJDkzZTM2ZWI1LTE1ZjQtNDdhMC1iZGM4LTRjZjA4MmZhYmE3NBgAIAAoADCryOW6iTI4i87luokyQIvO5bqJMkocVjd6UnlBYUlKRWlJM2pJNnRSQng4d3lGdHhrPVoeIhw4QktBc2N2T3MwUDNNbkFrbk1ORWtndWZORUk9ZQAAAADCPgJgBRKtAQgPEqgBChxjSVB0SW5QNUs4WmFhbCs3Qkt5ZXZLdFBsL2M9EiQ2Y2E2NTM3YS0xY2FjLTRiMTktYjY0Ny01YzUxYzQ5N2YzYjUYACAAKAAw0IXI0ZkyONqPyNGZMkDaj8jRmTJKHEpMcDhBSCtHbkd5S1h1a01GNFF0a3dvVTBXND1aHyIdq0NMUy9QYUZpZWFWSkRzeHVsbGVZSXFpNmFmYz1loytZI8I+AmAFEq0BCBESqAEKHHNuVzJtS3BtemQ1dk85RGpvQUU1SW1kc1JxMD0SJDc2OTgxZWIxLTc0ZDItNDlmMS05ODQ1LTBkZmNiODMyNzZiMhgAIAIoADDZtZH+5TI41s3luokyQNKSg4XqMkocQWwyT3BrOUNCZUNHUzQxSjdpbngwdE5CeWJjPVofIh2zVDZwUWRydWR3Y00xZGVNelZ5ekVXd3hTZjJRPWX9nIxKwj4CYAUSrAEICBKnAQocMzFUNWJQQTBUUmZzU0dEdDg3WnhOWitTQThZPRIkZTVhMDA5MTAtYWI3Yi00YzZhLTljZjktODNlNTEwYTNlNmFmGAAgACgAMM6FyNGZMjilj8jRmTJApY/I0ZkyShxPTHlabHRjWjkyZDArSTNsMUgxb2RuZURHaXc9Wh4iHFRNSlhQNmpoT3pUWUUrUWtRcTJoMi83RGVsYz1lAAAAAMI+AmAFEq0BCAsSqAEKHHhYN3RNQ01HL2NKTkxydkQyZEkrVEVqZ3VUUT0SJDViNzg4NmMwLTI5MTEtNGRmMy1iZWE0LTM0Mjg2OWE4M2U0MBgAIAAoADDMhcjRmTI4n83luokyQJ/N5bqJMkocMkZXckJwa2pySlY1WnRqYzhaci9nZkhQMVprPVofIh21OUxqemRJSC9Obko2ek84OUJ1bGhuL29lUnpJPWWjK1kjwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjkwNDBkYmMtNGRkOS01NTYyLWFiMzEtYzdhNmRmMDQ2ZDEwGAAgACgAMLS5vuT7MTjmvr7k+zFA5r6+5PsxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAkSpwEKHGZSZHppNWxUWW81MlExdS9aUzdmUTdYVGpyYz0SJDIxZTZjNjIzLTJmZDgtNGVkNy1hZjQ4LTJhMTI3YjJmN2ZhZRgAIAAoADClyOW6iTI46MzluokyQOjM5bqJMkocbjVjUVNBQ0pEemNCaitlTEJZYVJwRDdFd0xZPVoeIhxDT0M5ZnhRN0dzcWpoaEFUMkhQbExxVFdRTXM9ZQAAAADCPgJgABKtAQgYEqgBChxNVHBORWk2RXFXeDBiUGVpc24yMm84b29aVEk9EiQ0ODU2N2EyZS0xMzhhLTRkMmMtYTFjOC00ZjE4NjllZDA2NTEYACACKAAw47WR/uUyOMn9p7WKMkDZkoOF6jJKHFV1elZWRHQyc0hPTGg5V1NIQTAxK0EyWlUrQT1aHyId/3BNc2ZIbEFmc1RoNHBkYnJaR08rbHNzcFUwRT1lfedKfsI+AmAFEqwBCAoSpwEKHE1CUm52Ykc0NTN4R0tGblpOQm14dmY1TGZQUT0SJGNhZGYwODhlLTRmOTktNDYyMi1hNjcyLWYzZDcyMzBhNGNiNhgAIAAoADDNhcjRmTI4hM3luokyQITN5bqJMkocVW9DT0FNTkw2d2RDV2luUWxlSUhsWHFjL293PVoeIhxqbTFzQ0d5L3YzVlpzb1gxaXdIRE9yVkl5Q289Zf7DHt3CPgJgBRKsAQgMEqcBChw0Mld4RVZkaFVoWDNCTHZZRFVKL2pPZGJDUW89EiQzY2Q1NWYxOS1lOTEzLTQzYWYtYWU1NC1hZjg1ZWMyYzA5YzkYACAAKAAwqsjluokyOPHN5bqJMkDxzeW6iTJKHGNabHFBUHF3dmRaWXVIRUVJb3lsOXhTWHNQST1aHiIcQ2l2bFl2NjhtSnBCcmQyMFRuTkpWb24ycEZBPWUAAAAAwj4CYAASrQEIFRKoAQocQXRlTi9OdkdwT2YxRzFHbWRoSXBkRGZCdVRNPRIkY2YxZjY2N2UtYmE3Mi00OGU2LTlkYjMtN2I2YmQ5NjRlOTJmGAAgAigAMNi1kf7lMjjLzOW6iTJA1ZKDheoyShxtQVRkZ0FVU1c3L1IwdFlUWTZzaFhiOE8xS0E9Wh8iHfthaFNVU0ZBYWVwZWxEQXhvNjhaN1lZWjZtNG89ZbGkC+HCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ4ZjliMTlhMi0yYWMwLTUzOTktYmZhNy1lOWNjNGJiOGNlYWQYACAAKAAwtbm+5PsxOP6+vuT7MUD+vr7k+zFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIEBKnAQocdFltMnUrbUdLdGp6dTJKa2JZM0EvUFdjTHg0PRIkZmM2ZGY3NzQtNTBiNi00NzcyLTk0NmUtNDFlOTY4OTE2NzI4GAAgAigAMOK1kf7lMjjHz+W6iTJA0pKDheoyShx5NmN2dHhIaHhHRHl0VVZxV0VCQk1INFdwNzA9Wh4iHGd3SEZpZ0orZ2MzWHFRU1JXRVJoTllhSGVPZz1lmz2FtsI+AmAFEqwBCA4SpwEKHEI0VElrZm13aTdPdkhrdWJLTUtERWJmS3htaz0SJGMyN2Y4ZDBiLTc5MjAtNGZhYS04NDBjLWVjNDAxMzA4NDdmMhgAIAAoADDPhcjRmTI4v4/I0ZkyQL+PyNGZMkocNnRvMmhncDQ3ZHhWMWVrUXU0U29sVUxtS08wPVoeIhxXVEdOM29sRnlmUzlVK0ROT0lHeWhMNVRyOTA9Zf7DHt3CPgJgBRKtAQgXEqgBChxxRUtaL1lRajZ4SUVvMHovc1VPQ1lna1RtQXc9EiQxNTc2MGRmYS1mMjZkLTRhZDMtOTQ3MC0zMmMyNmFkYWExNzgYACACKAAw3LWR/uUyOMjCp7WKMkDYkoOF6jJKHDdRVXV4dldHUFRWaHlteGo0VmlwSmVpclJyWT1aHyId/jI2NDB3QkM5SDVva2t4U0cvSWVxVitqM0dvMD1lGHTPpcI+AmAFEq0BCBISqAEKHEMzYVc2NTZOaUpxVHYyZHBpYnFBY2ZFcTgvWT0SJDAxZDZkNGMzLTRjZDctNGQ5MS1hMzEyLTA4ZWQ2YTdjYjMwZRgAIAIoADDatZH+5TI4uc3luokyQNOSg4XqMkocdWkxNlhLUFZ1TUpKdkNra3dEY3FCWFpFVXlNPVofIh3ZWlVRVkdhaVdWYldIbUluSEozdDFSQXVPZHBvPWU9bIURwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMjBkMWZjZWUtNmRmNC01ZGYwLTgzYjMtZDg2NmMyYzcyYjdhGAAgACgAMLq5vuT7MTisv77k+zFArL++5PsxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
